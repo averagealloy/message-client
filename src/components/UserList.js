@@ -6,7 +6,12 @@
     
         // props.users
     
-        return  <div>User List</div>
+        return (
+                <div className="ui visible inverted left vertical sidebar menu">
+                    User List
+                </div>
+            
+            )        
     }
     
     export default UserList
