@@ -7,7 +7,7 @@
         // props.users
     
         return (
-                <div className="ui visible inverted left vertical sidebar menu">
+                <div className="ui visible sidebar">
                     User List
                 </div>
             
